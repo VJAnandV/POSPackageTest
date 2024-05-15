@@ -11,8 +11,8 @@
     <distributionManagement>
         <repository>
             <id>github</id>
-            <name>GitHub Apache Maven Packages</name>
-            <url>https://maven.pkg.github.com/VJanandV/POSPackageTest</url>
+            <name>GitHub VJAnandV Apache Maven Packages</name>
+            <url>https://maven.pkg.github.com/VJAnandV/POSPackageTest</url>
         </repository>
     </distributionManagement>
 
